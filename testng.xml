@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="OrangeHRM_POM">
+  <test name="OrangeHRM_TestCase">
+   <classes>
+     <class name="com.hrms.testscripts.TC_101"></class>
+     <class name="com.hrms.testscripts.TC_102"></class>
+     <class name="com.hrms.testscripts.TC_103"></class>
+   </classes>
+  </test>
+</suite>

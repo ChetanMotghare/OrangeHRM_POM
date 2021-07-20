@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[Application opened]]>
+    </line>
+    <line>
+      <![CDATA[Title not matched and expected title is OrangeHRM - New Level of HR Management]]>
+    </line>
+    <line>
+      <![CDATA[Login Completed]]>
+    </line>
+    <line>
+      <![CDATA[Title Matched]]>
+    </line>
+    <line>
+      <![CDATA[Logout Completed]]>
+    </line>
+    <line>
+      <![CDATA[Application closed]]>
+    </line>
+    <line>
+      <![CDATA[Application opened]]>
+    </line>
+    <line>
+      <![CDATA[Login Completed]]>
+    </line>
+    <line>
+      <![CDATA[Employee Added Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Logout Completed]]>
+    </line>
+    <line>
+      <![CDATA[Application closed]]>
+    </line>
+    <line>
+      <![CDATA[Application opened]]>
+    </line>
+    <line>
+      <![CDATA[Login Completed]]>
+    </line>
+    <line>
+      <![CDATA[Employee Delete Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Logout Completed]]>
+    </line>
+    <line>
+      <![CDATA[Application closed]]>
+    </line>
+  </reporter-output>
+  <suite name="OrangeHRM_POM" duration-ms="66563" started-at="2021-07-19T15:04:54Z" finished-at="2021-07-19T15:06:01Z">
+    <groups>
+    </groups>
+    <test name="OrangeHRM_TestCase" duration-ms="66563" started-at="2021-07-19T15:04:54Z" finished-at="2021-07-19T15:06:01Z">
+      <class name="com.hrms.testscripts.TC_102">
+        <test-method status="PASS" signature="tc102()[pri:0, instance:com.hrms.testscripts.TC_102@6ee52dcd]" name="tc102" duration-ms="29025" started-at="2021-07-19T15:05:12Z" finished-at="2021-07-19T15:05:41Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Application opened]]>
+            </line>
+            <line>
+              <![CDATA[Login Completed]]>
+            </line>
+            <line>
+              <![CDATA[Employee Added Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Logout Completed]]>
+            </line>
+            <line>
+              <![CDATA[Application closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc102 -->
+      </class> <!-- com.hrms.testscripts.TC_102 -->
+      <class name="com.hrms.testscripts.TC_103">
+        <test-method status="PASS" signature="tc103()[pri:0, instance:com.hrms.testscripts.TC_103@4493d195]" name="tc103" duration-ms="19271" started-at="2021-07-19T15:05:41Z" finished-at="2021-07-19T15:06:01Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Application opened]]>
+            </line>
+            <line>
+              <![CDATA[Login Completed]]>
+            </line>
+            <line>
+              <![CDATA[Employee Delete Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Logout Completed]]>
+            </line>
+            <line>
+              <![CDATA[Application closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc103 -->
+      </class> <!-- com.hrms.testscripts.TC_103 -->
+      <class name="com.hrms.testscripts.TC_101">
+        <test-method status="PASS" signature="tc101()[pri:0, instance:com.hrms.testscripts.TC_101@704a52ec]" name="tc101" duration-ms="18223" started-at="2021-07-19T15:04:54Z" finished-at="2021-07-19T15:05:12Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Application opened]]>
+            </line>
+            <line>
+              <![CDATA[Title not matched and expected title is OrangeHRM - New Level of HR Management]]>
+            </line>
+            <line>
+              <![CDATA[Login Completed]]>
+            </line>
+            <line>
+              <![CDATA[Title Matched]]>
+            </line>
+            <line>
+              <![CDATA[Logout Completed]]>
+            </line>
+            <line>
+              <![CDATA[Application closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc101 -->
+      </class> <!-- com.hrms.testscripts.TC_101 -->
+    </test> <!-- OrangeHRM_TestCase -->
+  </suite> <!-- OrangeHRM_POM -->
+</testng-results>
